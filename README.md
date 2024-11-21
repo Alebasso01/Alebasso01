@@ -31,14 +31,11 @@ My field of interest is  **Machine Learning & Artificial Intelligence**
 
 🔐 **Security Tools:** MobSF, Drozer, Charles Proxy  
 
-### 🤖 **Machine Learning & AI**
-I am highly interested in **Machine Learning** and **Artificial Intelligence**, and I have experience with the following libraries:  
-TensorFlow, Keras, PyTorch, NumPy, Matplotlib, Scikit-learn, and more!  
+🤖 **Machine Learning & AI**
+I am highly interested in **Machine Learning** and **Artificial Intelligence**, and I have experience with the following libraries:   TensorFlow, Keras, PyTorch, NumPy, Matplotlib, Scikit-learn, and more!  
 
 
 
-
-## 🚀 Tools & Technologies
 
 
 <p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -93,7 +90,6 @@ TensorFlow, Keras, PyTorch, NumPy, Matplotlib, Scikit-learn, and more!
 </p>
 
 
----
 
 Feel free to connect or collaborate with me on exciting projects! 😊
 
