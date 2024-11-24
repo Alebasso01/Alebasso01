@@ -93,6 +93,14 @@ I am highly interested in **Machine Learning** and **Artificial Intelligence**, 
 
 
 
+### 🔥 My Contributions  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alebasso01&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+### 🏆 Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alebasso01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+
+### 📊 Most Used Programming Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebasso01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
