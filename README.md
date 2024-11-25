@@ -16,9 +16,9 @@ You can reach me at:
 Feel free to contact me! 😊
 
 ## 🎓 Education
-- *2020-2023*: [Bachelor's Degree](https://corsi.unige.it/corsi/8719)  in Computer Engineering at the University of Genoa.
+- *2020-2023* : [Bachelor's Degree](https://corsi.unige.it/corsi/8719)  in **Computer Engineering** at the University of Genoa.
 
-- I am currently pursuing a [Master's Degree](https://corsi.unige.it/en/corsi/11160)  in **Computer Engineering**, specializing in Artificial Intelligence and Human-Centered Computing.  
+- *2023-present* : I am currently pursuing a [Master's Degree](https://corsi.unige.it/en/corsi/11160)  in **Computer Engineering**, specializing in **Artificial Intelligence and Human-Centered Computing**.  
 
 
 
@@ -26,7 +26,7 @@ Feel free to contact me! 😊
 
 ## 🚀 Tools & Technologies
 
-🖥️ **Programming Languages:** Python, C, C++, Java, MATLAB  
+<!---🖥️ **Programming Languages:** Python, C, C++, Java, MATLAB  
 
 🛠️ **Development Environments:** Visual Studio, Visual Studio Code, Eclipse, IntelliJ IDEA, Git  
 
@@ -40,6 +40,7 @@ Feel free to contact me! 😊
 
 🤖 **Machine Learning & AI**
 I am highly interested in **Machine Learning** and **Artificial Intelligence**, and I have experience with the following libraries:   TensorFlow, Keras, PyTorch, NumPy, Matplotlib, Scikit-learn, and more!  
+--->
 
 
 
@@ -55,20 +56,21 @@ I am highly interested in **Machine Learning** and **Artificial Intelligence**, 
   <!-- MATLAB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50" />
   <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" />
+  <!---img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" /--->
   <!-- Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
+  <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" /--->
   <!-- Eclipse -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50" />
+  <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50" /--->
   <!-- IntelliJ IDEA -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" />
+  <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" /--->
+  <!-- Unreal Engine -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" />
 </p>
 
 <p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <!-- Unreal Engine -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" />
+  <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /--->
+  
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
   <!-- InfluxDB -->
