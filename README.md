@@ -65,27 +65,22 @@ I am highly interested in **Machine Learning** and **Artificial Intelligence**, 
   <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" /--->
   <!-- Unreal Engine -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" />
-</p>
-
-<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <!-- Git -->
   <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /--->
-  
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
   <!-- InfluxDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="50" height="50" />
-  <!-- Cassandra -->
-  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" width="50" height="50" />
-  <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <!-- Neo4j -->
+</p>
+
+
+
+<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+   <!-- Neo4j -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="50" height="50" />
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
-</p>
-
-<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <!-- Keras -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50" />
   <!-- PyTorch -->
