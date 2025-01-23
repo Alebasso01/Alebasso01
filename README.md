@@ -20,27 +20,6 @@ You can reach me at :  [alebasso2001@gmail.com](mailto:alebasso2001@gmail.com). 
 
 
 
-## 🚀 Tools & Technologies
-
-<!---🖥️ **Programming Languages:** Python, C, C++, Java, MATLAB  
-
-🛠️ **Development Environments:** Visual Studio, Visual Studio Code, Eclipse, IntelliJ IDEA, Git  
-
-🎮 **Game Engines:** Unreal Engine  
-
-📊 **Simulation Tools:** Simulink  
-
-☁️ **Databases:** MySQL, InfluxDB, Cassandra, MongoDB, Neo4j  
-
-🔐 **Security Tools:** MobSF, Drozer, Charles Proxy  
-
-🤖 **Machine Learning & AI**
-I am highly interested in **Machine Learning** and **Artificial Intelligence**, and I have experience with the following libraries:   TensorFlow, Keras, PyTorch, NumPy, Matplotlib, Scikit-learn, and more!  
---->
-
-
-
-
 
 
 ### 🔥 My Contributions  
