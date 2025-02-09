@@ -9,8 +9,9 @@ I am passionate and enthusiastic about artificial intelligence 🤖🧠
 
 ## 📬 Contact Me  
 
-You can reach me at :  [alebasso2001@gmail.com](mailto:alebasso2001@gmail.com). Feel free to contact me! 😊
+- **Email:** [alebasso2001@gmail.com](mailto:alebasso2001@gmail.com)
 
+- **Linkedin:** [Alessandro Basso](http://www.linkedin.com/in/%20alessandro-basso-5b17972bb)
 ## 🎓 Education
 - *2020-2023* : [Bachelor's Degree](https://corsi.unige.it/corsi/8719)  in **Computer Engineering** at the University of Genoa.
 
