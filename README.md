@@ -3,9 +3,6 @@
 Hello World! My name is Alessandro and I am a computer engineer from Italy, Genoa.  
 
 
-I am passionate and enthusiastic about artificial intelligence 🤖🧠
-
-
 
 ## 📬 Contact Me  
 
@@ -21,16 +18,10 @@ I am passionate and enthusiastic about artificial intelligence 🤖🧠
 
 
 
+| 🔥 Contributions | 🏆 Trophies | 📊 Languages |  
+| --- | --- | --- |  
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alebasso01&theme=dark&background=000000)](https://git.io/streak-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=Alebasso01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebasso01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |  
 
-
-### 🔥 My Contributions  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alebasso01&theme=dark&background=000000)](https://git.io/streak-stats)  
-
-### 🏆 My Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alebasso01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-
-### 📊 Most Used Programming Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alebasso01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
